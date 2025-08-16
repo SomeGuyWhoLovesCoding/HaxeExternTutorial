@@ -52,9 +52,11 @@ Hashlink
 
 https://github.com/HaxeFoundation/hashlink/wiki
 
+https://github.com/josuigoa/hl-extension
+
 Man read it
 
 Note
 ===
 
-This was written 14 after midnight.
+This was written 13:35 after midnight.
